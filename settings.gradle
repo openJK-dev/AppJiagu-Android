@@ -1,0 +1,3 @@
+rootProject.name = "ApkSteady"
+include ':app'
+include ':steady'
